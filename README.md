@@ -7,14 +7,17 @@
 - $  pkg install cowsay
 - $  pkg install figlet
 - $  pkg install curl
+- $  pkg install lolcat
+- $  pkg install ruby 
+- $  gem install lolcat 
 - $  git clone https://github.com/IntiTutorial/DEFACE-WEBDAV
-- $  ls
 - $  cd DEFACE-WEBDAV
 - $  sh webdav.sh
  
  # Contactme
  - https://www.instagram.com/mybxxz
  - dryhezelnut@gmail.com
+ - wa.me/6285332614787
  
 
  # Thanks To
