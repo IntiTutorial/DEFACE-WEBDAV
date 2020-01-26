@@ -17,7 +17,7 @@
  # Contactme
  - https://www.instagram.com/mybxxz
  - dryhezelnut@gmail.com
- - wa.me/6285332614787
+ - https://wa.me/6285332614787
  
 
  # Thanks To
